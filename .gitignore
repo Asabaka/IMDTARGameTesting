@@ -1,0 +1,14 @@
+
+ARCloudSDK_Android/Library
+ARCloudSDK_Android/.vs
+ARCloudSDK_Android/Logs
+ARCloudSDK_Android/obj
+ARCloudSDK_Android/Packages
+ARCloudSDK_Android/ProjectSettings
+ARCloudSDK_Android/UserSettings
+ARCloudSDK_Android/Assembly-CSharp-Editor.csproj
+ARCloudSDK_Android/Assembly-CSharp.csproj
+ARCloudSDK_Android/Assembly-CSharp-firstpass.csproj
+ARCloudSDK_Android/ARCloudSDK_Android.sln
+ARCloudSDK_Android/.vsconfig
+ARCloudSDK_Android/Temp

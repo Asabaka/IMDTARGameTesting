@@ -1,0 +1,147 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5183231864000838332
+  m_GuidHigh: 9992603289427021757
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5348811948232282660
+      m_GuidHigh: 13447104813025757830
+    m_SerializedTextureGuid:
+      m_GuidLow: 8706588021613411011
+      m_GuidHigh: 17663271751216726441
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: gy_water
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4914911995233897935
+      m_GuidHigh: 15393086719332502206
+    m_SerializedTextureGuid:
+      m_GuidLow: 12052882011701017253
+      m_GuidHigh: 4160061180338428601
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: gy_starch
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5691597373533068885
+      m_GuidHigh: 2954682620823923606
+    m_SerializedTextureGuid:
+      m_GuidLow: 10454198738140325002
+      m_GuidHigh: 18155953618305101337
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: gy_potato
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5694104973123092740
+      m_GuidHigh: 13654029418394833598
+    m_SerializedTextureGuid:
+      m_GuidLow: 2951055474859029206
+      m_GuidHigh: 9935906223189435818
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: gy_plant
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5670242042006414804
+      m_GuidHigh: 14892532255332971938
+    m_SerializedTextureGuid:
+      m_GuidLow: 13349976728749505533
+      m_GuidHigh: 7935357083356806235
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: gy_glucose
+    m_Texture: {fileID: 2800000, guid: 84d87bfda51ab9445bbc5c57390d206e, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4785706083590097233
+      m_GuidHigh: 6859349266286669487
+    m_SerializedTextureGuid:
+      m_GuidLow: 8440890652857238525
+      m_GuidHigh: 1918965271527006315
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: gy_B12
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5553885858795790694
+      m_GuidHigh: 15921965090660893578
+    m_SerializedTextureGuid:
+      m_GuidLow: 10841476583504135732
+      m_GuidHigh: 5482361533684239977
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: gy_agar
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5286131556769535410
+      m_GuidHigh: 14793187046571246508
+    m_SerializedTextureGuid:
+      m_GuidLow: 1996357781443416213
+      m_GuidHigh: 5683544125493050488
+    m_Size: {x: 0.1, y: 0.133125}
+    m_SpecifySize: 1
+    m_Name: nfsq
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5163173776507787553
+      m_GuidHigh: 14833118039271455409
+    m_SerializedTextureGuid:
+      m_GuidLow: 5482010380684076214
+      m_GuidHigh: 14445312715915333129
+    m_Size: {x: 0.1, y: 0.07241935}
+    m_SpecifySize: 1
+    m_Name: gy_lyb
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5488244263675007913
+      m_GuidHigh: 12969496404180855739
+    m_SerializedTextureGuid:
+      m_GuidLow: 6702503729564866884
+      m_GuidHigh: 7044724493262775930
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: gy_ky
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5202528436450005947
+      m_GuidHigh: 16807051907839269008
+    m_SerializedTextureGuid:
+      m_GuidLow: 505621926461357605
+      m_GuidHigh: 16720595711956503642
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: gy_ym
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5336153096468967181
+      m_GuidHigh: 14120404666696381359
+    m_SerializedTextureGuid:
+      m_GuidLow: 2054881050717648916
+      m_GuidHigh: 16026372571469496362
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: gy_adder
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5236851523054063868
+      m_GuidHigh: 17492547847301951379
+    m_SerializedTextureGuid:
+      m_GuidLow: 18313034501536652405
+      m_GuidHigh: 6143993908696607353
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: gy_protein
+    m_Texture: {fileID: 0}
